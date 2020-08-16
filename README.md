@@ -1,8 +1,9 @@
-### Hello There, Im Krystian Kluczkiewicz 👋
+## Hello There, Im Krystian Kluczkiewicz 👋
 
+### I'm a Student of Computer Science and Econometrics, Junior Developer, and amateurish MMA fighter. 👋
 
 - 🔭 I’m currently working on Health Aplication with technologies like (Java, JavaScript, Html & CSS, SQL & Hibernate)
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular & SalesForce
 - 👯 I’m looking to collaborate with Junior/Regular Java Developers.
 - 🤔 I’m looking for help with with usage of Decorator pattern.
 - 💬 Ask me about tech related stuff, gym, diet,  or anything You want.
