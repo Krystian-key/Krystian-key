@@ -1,6 +1,6 @@
 ## Hello There, Im Krystian Kluczkiewicz 👋
 
-### I'm a Student of Computer Science and Econometrics, Junior Developer, and amateurish MMA fighter.
+### I'm a Student of Computer Science and Econometrics, Junior Developer and amateurish MMA fighter.
 
 - 🔭 I’m currently working on Health Aplication with technologies like (Java, JavaScript, Html & CSS, SQL & Hibernate)
 - 🌱 I’m currently learning Angular & SalesForce
@@ -23,12 +23,12 @@
 
 ## Languages and Tools I'm experienced with: 
 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="35"/> 
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="35"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="35"/>
+  <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="35"/> 
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="35"/>
 
 </br>
 </br>
