@@ -2,7 +2,7 @@
 
 ### I'm a Student of Computer Science and Econometrics, Junior Developer and amateurish MMA fighter.
 
-- 🔭 I’m currently working on Health Aplication with technologies like (Java & SpringBoot, JavaScript & Html & CSS, SQL & Hibernate, Angular)
+- 🔭 I’m currently working on Health Aplication with technologies like (Java & SpringBoot, JavaScript & Html & CSS, SQL & Hibernate)
 - 🌱 I’m currently learning Angular & SalesForce
 - 👯 I’m looking to collaborate with Junior/Regular Java Developers.
 - 🤔 I’m looking for help with with usage of Decorator pattern.
