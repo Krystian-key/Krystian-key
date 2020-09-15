@@ -37,14 +37,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Krystian-key&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="krystian-key"/>
 
-### Repositories: 
-
-<a href="https://github.com/Krystian-key/Spring01HibernateProject.git">
-  <img align="center" src="https://camo.githubusercontent.com/c3826cd75c54579cea1d31dc138357260d982303/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6c2d7061736965637a796e736b69267265706f3d537072696e672d4d56432d52455354267469746c655f636f6c6f723d66666666666626746578745f636f6c6f723d6339636163632669636f6e5f636f6c6f723d3262626338612662675f636f6c6f723d316431663231" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Krystian-key&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" style="max-width:100%;">
-</a>
 
 
 
 ### Most Used languages: 
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krystian-key&layout=compact&hide=html" alt="krystian-key" />
