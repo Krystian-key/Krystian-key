@@ -1,6 +1,6 @@
 ## Hello There, Im Krystian Kluczkiewicz 👋
 
-### I'm a Student of Computer Science and Econometrics, Junior Developer and amateurish MMA fighter.
+### I'm a Student of Computer Science and Econometrics, Java Developer and amateurish MMA fighter.
 
 - 🔭 I’m currently working on Health Aplication with technologies like (Java & SpringBoot, JavaScript & Html & CSS, SQL & Hibernate)
 - 🌱 I’m currently learning Angular & advanced security
