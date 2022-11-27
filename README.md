@@ -11,8 +11,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm addicted to learning new technologies and gym. 
 
-
-
 </br>
 </br>
 
