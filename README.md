@@ -2,11 +2,10 @@
 
 ### I'm a Student of Computer Science and Econometrics, Java Developer and amateurish MMA fighter.
 
-- 🔭 I’m currently working on Health Aplication with technologies like (Java & SpringBoot, JavaScript & Html & CSS, SQL & Hibernate)
-- 🌱 I’m currently learning Angular & advanced security
-- 👯 I’m looking to collaborate with Junior/Regular Java Developers.
-- 🤔 I’m looking for help with with usage of Decorator pattern.
-- 🥅 2020 Goals: Survive & Contribute more to Open Source projects
+- 🔭 I’m currently developing Python scripts for Penetration testing purposes
+- 🌱 I’m currently learning advanced security
+- 👯 I’m looking to collaborate with Python Developers.
+- 🥅 2022 Goals: Carrer In Google Cyber
 - 💬 Ask me about tech related stuff, gym, diet,  or anything You want.
 - 📫 How to reach me: [\[Linkedin - @krystian-kluczkiewicz\]](https://www.linkedin.com/in/krystian-kluczkiewicz-3393a11a0/)
 - 😄 Pronouns: He/His
