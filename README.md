@@ -1,6 +1,6 @@
 ## Hello There, Im Krystian Kluczkiewicz 👋
 
-### I'm a Student of Computer Science and Econometrics, Java Developer and amateurish MMA fighter.
+### I'm a CyberSecurity Engineer & Container Security & DevSecOps Focal in CEE.
 
 - 🔭 I’m currently developing Python scripts for Penetration testing purposes
 - 🌱 I’m currently learning advanced security
