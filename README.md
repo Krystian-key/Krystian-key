@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with Python Developers.
 - 🥅 2025 Goals: Carrer In Google Cyber
 - 💬 Ask me about tech related stuff, gym, diet,  or anything You want.
-- 📫 How to reach me: [\[Linkedin - @krystian-kluczkiewicz\]]([https://www.linkedin.com/in/krystian-kluczkiewicz-3393a11a0/](https://www.linkedin.com/in/krystian-key/))
+- 📫 How to reach me:[ [\[Linkedin - @krystian-kluczkiewicz\]]([https://www.linkedin.com/in/krystian-kluczkiewicz-3393a11a0/](https://www.linkedin.com/in/krystian-key/))](https://www.linkedin.com/in/krystian-key/)
 
 ### Github Stats: 
 
